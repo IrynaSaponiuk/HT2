@@ -14,7 +14,7 @@ public class MainPage extends BasePage{
     private WebElement singInButton;
 
 
-    public void openHomePage(String URL) {
+    public void openMainPage(String URL) {
         driver.get(URL);
     }
 
